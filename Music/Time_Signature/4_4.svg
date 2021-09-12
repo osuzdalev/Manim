@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   version="1.1"
+   id="svg840"
+   sodipodi:docname="Music-timesig.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs844" />
+  <sodipodi:namedview
+     id="namedview842"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.9508784"
+     inkscape:cx="117.4713"
+     inkscape:cy="88.669449"
+     inkscape:window-width="2334"
+     inkscape:window-height="1150"
+     inkscape:window-x="138"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg840" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.25;stroke-dasharray:none"
+     id="g834" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.618215"
+     d="m 90.928915,61.83 h 8.97033 C 96.80385,67.214541 89.855003,74.656097 86.127894,77.802121 h 8.591302 v -4.840036 l 6.317134,-6.050046 v 10.890082 h 2.90588 v 1.815014 h -2.90588 v 2.60152 c 0,1.149509 1.13708,2.238517 2.90588,2.238517 v 1.996515 l -13.000704,0.163351 0.682295,-2.159866 c 1.831968,0 3.095395,-1.089008 3.095395,-2.238517 v -2.60152 H 83.980069 v -2.178016 c 2.84271,-2.54102 3.979794,-5.20304 4.421993,-5.989546 1.516112,-3.448526 1.958311,-6.110546 2.526853,-9.619573 z"
+     id="path838-2"
+     sodipodi:nodetypes="ccccccccccsccccsccccc" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.618215"
+     d="m 90.966775,87.042962 h 8.970329 C 96.841709,92.427503 89.892862,99.869059 86.165753,103.01508 h 8.591302 V 98.175046 L 101.07419,92.125 v 10.89008 h 2.90588 v 1.81502 h -2.90588 v 2.60152 c 0,1.14951 1.13708,2.23851 2.90588,2.23851 v 1.99652 l -13.000705,0.16335 0.682294,-2.15987 c 1.831969,0 3.095396,-1.089 3.095396,-2.23851 V 104.8301 H 84.017928 v -2.17802 c 2.84271,-2.54102 3.979794,-5.203039 4.421993,-5.989545 1.516112,-3.448526 1.958312,-6.110547 2.526854,-9.619573 z"
+     id="path838-2-9"
+     sodipodi:nodetypes="ccccccccccsccccsccccc" />
+</svg>

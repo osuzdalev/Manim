@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   style="display:inline"
+   sodipodi:docname="Music-beam.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="100.5"
+     inkscape:cy="111.5"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2994-5"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="notes">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 44.75,51.0625 0,74.8125 c -3.631029,-2.73664 -9.836503,-3.05882 -15.8125,-0.375 -7.716959,3.46572 -12.07372,10.56169 -9.6875,15.875 2.386241,5.31334 10.564271,6.87193 18.28125,3.40625 0.482305,-0.21662 1.013719,-0.44364 1.46875,-0.6875 5.972003,-3.20064 9.490525,-8.68927 8.78125,-13.34375 l 0,-65.71875 131.6875,0 0,60.84375 c -3.63103,-2.73664 -9.86775,-3.05882 -15.84375,-0.375 -7.71696,3.46572 -12.04247,10.56169 -9.65625,15.875 2.38624,5.31334 10.56427,6.87193 18.28125,3.40625 0.48231,-0.21662 0.98247,-0.44364 1.4375,-0.6875 5.97201,-3.20064 9.49052,-8.68927 8.78125,-13.34375 l 0,-79.6875 -3,0 -131.6875,0 -3.03125,0 z"
+       id="rect3854"
+       inkscape:connector-curvature="0" />
+    <g
+       style="display:inline"
+       transform="translate(213.58333,102.33333)"
+       id="g2994-5" />
+  </g>
+</svg>

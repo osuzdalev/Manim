@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   width="210mm"
+   height="297mm"
+   sodipodi:docname="Music-Fclef.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 823.01969 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 823.01969 : 1"
+       inkscape:persp3d-origin="0.5 : 822.85299 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1839"
+     inkscape:window-height="1055"
+     id="namedview4"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="-111"
+     inkscape:cy="449"
+     inkscape:window-x="2962"
+     inkscape:window-y="138"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3614"
+     inkscape:pagecheckerboard="0"
+     units="mm"
+     inkscape:document-units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3602"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <g
+     id="g3614"
+     transform="matrix(3,0,0,3,15,-150)">
+    <path
+       sodipodi:nodetypes="cssssssssssc"
+       id="path2820"
+       d="m -2.488323,68.519848 c 0,-0.147225 0.810561,-0.753028 1.80124679,-1.346226 2.12997101,-1.275375 3.66820421,-2.67075 4.56289181,-4.139129 2.0517377,-3.367347 1.401793,-6.87839 -1.3326434,-7.199029 -1.512411,-0.177345 -3.42720349,0.787421 -3.42720349,1.726793 0,0.34849 0.10197299,0.376559 1.21072646,0.33326 1.35661413,-0.05298 2.27441523,1.10146 1.54027223,1.9374 -1.16001659,1.320865 -3.9542175,0.56205 -3.9542175,-1.073838 0,-1.433754 0.9980169,-2.57481 2.7545751,-3.149369 3.7590558,-1.229563 7.3372787,1.037151 7.0239645,4.449504 -0.256803,2.79688 -3.0422791,5.408977 -8.44977374,7.923827 C -2.0415446,68.57975 -2.488323,68.718396 -2.488323,68.519848 Z"
+       style="fill:#000000;stroke-width:0.187503" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16036"
+       id="path3598"
+       cx="9.6417913"
+       cy="57.699291"
+       rx="1.1255109"
+       ry="1.0308175" />
+    <ellipse
+       id="path3600"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16036"
+       cx="9.7194996"
+       cy="61.184532"
+       rx="1.1255109"
+       ry="1.0308175" />
+  </g>
+</svg>
