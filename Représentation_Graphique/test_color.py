@@ -8,6 +8,7 @@ class MObjectGradient(Scene):
         dots.set_colors_by_radial_gradient(radius=2.0, inner_color=BLUE, outer_color=PINK)
         self.add(dots)
 
+
 class TextGradient(Scene):
     def construct(self):
         text = Tex("Hello, World!").set_color_by_gradient(PINK, BLUE, PURPLE)
