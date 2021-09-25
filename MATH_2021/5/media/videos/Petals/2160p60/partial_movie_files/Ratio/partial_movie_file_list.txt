@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/3215718966_318927736_1315832535.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_398514950_3335105228.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_561465891_2371804314.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_398514950_888959710.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_2411609606_2601039052.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_398514950_1121468101.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_2299597788_322888528.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_398514950_1895063917.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_4178704689_1949097464.mp4'
+file 'file:/Users/imac/Desktop/Manim/MATH_2021/5/media/videos/Petals/2160p60/partial_movie_files/Ratio/1370976784_398514950_1583891923.mp4'
